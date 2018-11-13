@@ -244,6 +244,7 @@ section.success {
 
 #portfolio * {
     z-index: 2;
+    justify-items: center;
 }
 
 @media(min-width:767px) {

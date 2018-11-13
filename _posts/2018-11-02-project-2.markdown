@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2018-11-02
+img: wavy_proper.png
+alt: image-alt
+project-date: April 2016
+client: Klarna
+category: Android
+description: TODO
+
+---

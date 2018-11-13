@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2018-11-01
+img: companion_proper.png
+alt: image-alt
+project-date: 2018
+client: Canon Europe
+category: Android
+description: TODO
+
+---
