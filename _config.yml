@@ -51,7 +51,7 @@ address:
   - line: 6723 Szeged
 
 # Credits content
-credits: '"Quick, to the Batmobile!" - Batman'
+credits: 'Quick, to the Batmobile! - Batman'
 
 # Build settings
 markdown: kramdown
