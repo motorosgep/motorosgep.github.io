@@ -56,3 +56,4 @@ credits: 'Quick, to the Batmobile! - Batman'
 # Build settings
 markdown: kramdown
 permalink: pretty
+relative_permalinks: false
