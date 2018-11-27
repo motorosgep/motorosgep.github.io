@@ -1,10 +1,10 @@
 # Site settings
 title: Istvan Gabor Fodor
 email: istvan@fodor.work
-url: https://istvan.fodor.work
+url: https://fodor.work
 description: "Portfolio"
 keywords: "cv,resume,portfolio"
-skills: "Senior Software Engineer in Szeged, HUNGARY"
+skills: "Android Developer in Szeged, HUNGARY"
 meta_author: Istvan Gabor Fodor
 
 # Google webmaster tools
@@ -33,22 +33,20 @@ color:
 # Footer settings
 footer:
   copyright: Istvan Gabor Fodor
-  location: Szeged, HUNGARY
+  location:
   social: Around the Web
-  credits: Credits
+  credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: facebook
-    url:
   - title: linkedin
     url: https://www.linkedin.com/in/istvan-fodor-a7270659/
 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Űrhajós u. 7/B
-  - line: 6723 Szeged
+  - line:
+  - line:
 
 # Credits content
 credits: 'Quick, to the Batmobile! - Batman'
