@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 3
-date: 2018-11-03
-img: cookies_proper.png
+date: 2016-11-01
+img: wavy_proper.png
 alt: image-alt
-project-date: April 2014
-client: Cookies
+project-date: 2016
+client: Klarna
 category: Android
-description: TODO
+description: Wavy by Klarna
 
 ---

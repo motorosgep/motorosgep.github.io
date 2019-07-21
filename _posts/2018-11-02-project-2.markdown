@@ -2,11 +2,11 @@
 layout: default
 modal-id: 2
 date: 2018-11-02
-img: wavy_proper.png
+img: companion_proper.png
 alt: image-alt
-project-date: April 2016
-client: Klarna
+project-date: 2018
+client: Canon
 category: Android
-description: TODO
+description: Canon Photo Companion
 
 ---
