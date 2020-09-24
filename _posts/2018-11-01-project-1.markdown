@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 2019
 client: UEFA
 category: Android
+name: UEFA.tv
+logo: uefatv_proper.png
 description: UEFA.tv
-
 ---
