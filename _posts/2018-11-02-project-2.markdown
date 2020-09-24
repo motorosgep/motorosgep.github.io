@@ -7,6 +7,7 @@ alt: image-alt
 project-date: 2018
 client: Canon
 category: Android
-description: Canon Photo Companion
+name: Canon Photo Companion
+description: A personalised, portable app that guides you and teaches you as you embark on your photography journey.
 
 ---
