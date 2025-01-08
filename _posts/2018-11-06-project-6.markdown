@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 6
+date: 2023-01-01
+img: bbcx_news.png
+alt: BBCX
+project-date: 2023
+client: BBC
+category: RN app
+name: BBC News
+description: News/videos/podcasts
+---
